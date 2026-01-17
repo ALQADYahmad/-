@@ -1,0 +1,26 @@
+
+{
+  "short_name": "المرور الذكي",
+  "name": "نظام الأرشفة الذكي للمرور",
+  "description": "نظام إدارة وأرشفة بيانات المرور واللوحات - النسخة الاحترافية",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2555/2555013.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2555/2555013.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "categories": ["government", "productivity"]
+}
